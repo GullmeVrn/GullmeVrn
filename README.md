@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm Guillaume 👋🏻‍🧑🏻‍💻
 
-<!--
-**GullmeVrn/GullmeVrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+![github profile banner](/assets/images/github-banner.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a web developer who is passionate about making user interface. Some technologies I enjoy working with include Vue, React, Svelte, Jamstack (JavaScript, APIs + Markup) and TailwindCSS.
+
+### Find me around the web 🌍
+
+---
+
+- See you later on [Twitter](https://twitter.com/gullme_vrn) 🕊️
+- Follow me on [LinkedIn](https://www.linkedin.com/in/gullme-vrn/) 💼
+- Contact me with <a href="mailto:guillaume.v31@gmail.com">guillaume.v31@gmail.com</a> 📩
