@@ -12,4 +12,4 @@ I'm a web developer who is passionate about making user interface. Some technolo
 
 - See you later on [Twitter](https://twitter.com/gullme_vrn) 🕊️
 - Follow me on [LinkedIn](https://www.linkedin.com/in/gullme-vrn/) 💼
-- Contact me with <a href="mailto:guillaume.v31@gmail.com">guillaume.v31@gmail.com</a> 📩
+- Contact me with <a href="mailto:guillaume.v31@gmail.com">guillaume.varin@ik.me</a> 📩
